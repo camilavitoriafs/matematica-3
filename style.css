@@ -24,3 +24,29 @@ body{
    width: 100%;
    margin:0 auto;
 }
+@import url(/https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500; 0,600;0,700;1,300;1,400;1,500;1,600;1,700&display =trocar'
+
+: root{
+
+   - cor-de-fondo: O#LELEIE;
+   --verde:#6FFF57；
+--branco: #FFFFFF;
+--botao-ativo: O#3A375E;
+--botao-inativo: Orgba (58,55,94,0.5);
+-texto-fundo: I rgba (58,55,94, 0.3);
+}
+
+body{
+    background-color: var(--cor-de-fondo);
+    color: var(--branco);
+    font-family: "chakra petch', sans-serif;
+}
+.conteudo-principal 
+   display: flex;
+   flex-direction: column;
+   justify-content: center; 
+   align-items: center; 
+   max-width: 1200px;
+   width: 100%;
+   margin:0 auto;
+}
